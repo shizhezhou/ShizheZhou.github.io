@@ -1,4 +1,4 @@
-Shizhe Zhou,  ![IMAGE](/blob/master/shizhezhou_28.png)
+Shizhe Zhou,  ![IMAGE](shizhezhou_28.png)
 
 Computer Science Department, Hunan University.
 
