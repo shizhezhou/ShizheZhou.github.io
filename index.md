@@ -1,16 +1,19 @@
 
-First Header | ![IMAGE](shizhezhou_28.png)
+Computer Science Department, Hunan University.
+
+Email: shizhe.cg@gmail.com
+
+Office: Computer Science Department, Hunan University, Changsha, China.  | ![IMAGE](shizhezhou_28.png)
+
+
+
 ------------ | -------------
 c11 | c12
 c21 | c22
 
 
 
-Computer Science Department, Hunan University.
 
-Email: shizhe.cg@gmail.com
-
-Office: Computer Science Department, Hunan University, Changsha, China.
 
 
 
