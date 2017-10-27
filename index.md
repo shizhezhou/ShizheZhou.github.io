@@ -4,11 +4,12 @@ Computer Science Department, Hunan University.
 
 Email: shizhe.cg@gmail.com
 
-Office: Software Center, Hunan University, Changsha, China.
+Office: Computer Science Department, Hunan University, Changsha, China.
 
 ### Markdown
 
-Biography
+# Header 1  Biography
+
 
 ```markdown
 Syntax highlighted code block
