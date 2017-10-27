@@ -5,7 +5,7 @@ Email: [shizhe.cg@gmail.com](mailto:shizhe.cg@gmail.com) or [shizhe@hnu.edu.cn](
 Office: Computer Science Department, Hunan University, Changsha, China.
 
 |-
-NEWS: I am looking for students[PHD position opening!]. If you are interested please drop me an email.| 
+NEWS: I am looking for students[PHD position opening!]. If you are interested please drop me an email. :simple_smile: | 
 
 
 # Background
