@@ -4,9 +4,13 @@ Computer Science Department, Hunan University.
 Email: [shizhe.cg@gmail.com](mailto:shizhe.cg@gmail.com) or [shizhe@hnu.edu.cn](mailto:shizhe@hnu.edu.cn)      
 Office: Computer Science Department, Hunan University, Changsha, China.
 
+# Background
 
+I am an associate professor in College of Computer Science,Hunan Univerisity. I focus my interests in computer graphics, computational geometrics and GPU-based algorithms. I love solving problems by programming, especially when visually cool&new stuff being created on screen.
 
-# Biography
+I did a postdoc in the School of Math, USTC in 2012-2015. I did another postdoc at INRIA France, working with Dr.Sylvain Lefebvre's on digital content synthesis in 2011-2012. I obtained a PH.D of Applied Mathematics from Zhejiang Univ. in 2011. I worked on a research project in City Univ. of Hong Kong in 2010.
+
+Topics: Computer graphics related algorithm, Network Optimization(continuous or discrete),Synthesis(Vector or pixel, both a lot of fun:)), Image, Physical Simulation,etc.
 
 ### Markdown
 
