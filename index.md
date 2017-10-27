@@ -1,7 +1,7 @@
 ![IMAGE](shizhezhou_28.png)
 
-College of Computer Science, [Hunan University](http://csee.hnu.edu.cn/Front/RYJBXX_Detail?RYJBXX_BH=2015090609212064ecb970-799b-4bcd-9362-694d8dfb1c47)                                  
-Email: [shizhe.cg@gmail.com](mailto:shizhe.cg@gmail.com) or [shizhe@hnu.edu.cn](mailto:shizhe@hnu.edu.cn)      
+College of Computer Science, [Hunan University](http://csee.hnu.edu.cn/Front/RYJBXX_Detail?RYJBXX_BH=2015090609212064ecb970-799b-4bcd-9362-694d8dfb1c47).                                  
+Email: [shizhe.cg@gmail.com](mailto:shizhe.cg@gmail.com) or [shizhe@hnu.edu.cn](mailto:shizhe@hnu.edu.cn).      
 Office: Computer Science Department, Hunan University, Changsha, China.
 
 
