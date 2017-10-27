@@ -1,4 +1,4 @@
-Shizhe Zhou
+Shizhe Zhou,  [IMAGE](https://github.com/shizhezhou/ShizheZhou.github.io/blob/master/shizhezhou_28.png)
 
 Computer Science Department, Hunan University.
 
