@@ -5,10 +5,10 @@ Email: [shizhe.cg@gmail.com](mailto:shizhe.cg@gmail.com) or [shizhe@hnu.edu.cn](
 Office: Computer Science Department, Hunan University, Changsha, China.
 
 |-
-NEWS: I am looking for students[PHD position opening!]. If you are interested please drop me an email. :simple_smile: | 
+NEWS: I am looking for students[PHD position opening!]. If you are interested please drop me an email. :+1: | 
 
 
-# Background
+# Background+1
 
 I am an associate professor in College of Computer Science,Hunan Univerisity. I focus my interests in computer graphics, computational geometrics and GPU-based algorithms. I love solving problems by programming, especially when visually cool&new stuff being created on screen.
 
