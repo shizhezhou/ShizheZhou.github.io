@@ -1,6 +1,6 @@
 ![IMAGE](shizhezhou_28.png)
 
-Computer Science Department, Hunan University.                                  
+College of Computer Science, Hunan University.                                  
 Email: [shizhe.cg@gmail.com](mailto:shizhe.cg@gmail.com) or [shizhe@hnu.edu.cn](mailto:shizhe@hnu.edu.cn)      
 Office: Computer Science Department, Hunan University, Changsha, China.
 
