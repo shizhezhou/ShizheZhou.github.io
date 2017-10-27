@@ -1,5 +1,3 @@
-##  Dr. Shizhe Zhou,  ![IMAGE](shizhezhou_28.png)
-
 Computer Science Department, Hunan University.
 
 Email: shizhe.cg@gmail.com
