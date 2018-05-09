@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0043)http://sweb.cityu.edu.hk/shizzhou/ -->
+<HTML><HEAD><META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<TITLE>Shizhe Zhou's Homepage</TITLE>
+<META name="Generator" content="EditPlus">
+<META name="Author" content="??? Zhou Shizhe">
+<META name="Keywords" content="??? ??? computer graphics reshaping of human body">
+<META name="Description" content="??? ??? computer graphics reshaping of human body">
+
+<LINK href="css.css" rel="stylesheet" type="text/css">
+<STYLE type="text/css">
+<!--
+.style1 {color: #666666}
+body {
+	margin-left: 0px;
+}
+-->
+</STYLE>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+</HEAD><BODY>
+<DIV id="bounding">
+  <DIV>
+    <DIV style=" padding:0 pt; position:static; background:url()">
+  <h2 align="center">PatchSwapper : a novel real-time single-image editing technique by region-swapping</h2>
+  <H4 align="center"><a href="https://shizhezhou.github.io">Shizhe Zhou</a>, Chengfeng Zhou</H4>
+  <H4 align="center">Computer &amp; Graphics, accepted, 2018</H4>
+    </DIV>
+  </DIV>
+  <H3>Abstract:</H3>
+  <div align="left">
+    <p>While many image composition and synthesis techniques have been proposed, neither existing work nor professional image editing softwares such as Adobe Photoshop&copy; provide a program explicitly for the task of realistically swapping regions within a single image. In this paper, we present an easy-to-use image-editing tool explicitly for that purpose, named as PatchSwapper. Users can simply determine the centre and radius of a pair of candidate regions or specify arbitrary borders by sketches; then, the swapping step is automatically and optimally executed. A graph-based approach is designed to find the optimal borders of two irregular regions to avoid generating visible seams. We use this approach to handle both non-transformed and transformed patches. For nontransformed cases, we not only achieve realtime performance with CPU multi-thread implementation, we also provide a location recommendation algorithm to help users find the appropriate exchangeable areas. For transformed patches, our method searches for the optimal transformation to generate interesting appearance changes on both the source and target locations. A Poisson color blending is performed onto the stitched patches. Overall the proposed approach is not only suitable for swapping image objects of any shapes but also for some other applications, e.g., image completion and composition.</p>
+    <p>The experiments demonstrate that common images often contain potentially exchangeable areas and that large content variations can be obtained by simply swapping their locations.</p>
+    <p><img src="irregular.jpg" width="1072" height="347"></p>
+    <h5 align="center"><img src="teaser.jpg" width="1012" height="387"><br>
+</h5>
+  </div>
+  <H3>PDF:</H3>
+  <div align="left"><a href="https://dl.acm.org/ft_gateway.cfm?id=2661238&ftid=1513713&dwn=1&#URLTOKEN#">highres </a> <a href="topology-constrained synthesis of vector patterns.pdf">lowres</a></div>
+  <H3>Talk:</H3>
+  <div align="left"><a href="slides.pdf">slides</a> <a href="ffd.pptx">fastforward</a></div>
+  <H3>Software:</H3>
+  <div align="left"><a href="exe.zip">executables</a> <a href="data.zip"> dataset</a></div>
+  <h3>Video:</h3>
+  <div align="center">
+    <table width="200" border="1">
+      <tr>
+        <td><a href="https://youtu.be/8FXJYPojlAk"><img src="videothumbnail.png" alt="" width="529" height="366" align="baseline"></a></td>
+      </tr>
+    </table>
+  </div>
+  <h3>Bibtex   
+  </h3>
+  <table width="900">
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>@article{Zhou2014,<br>
+          author = {Shizhe Zhou and Changyun Jiang and Sylvain Lefebvre},<br>
+          title = {Topology-constrained Synthesis of Vector Patterns},<br>
+          journal = {ACM Transactions on Graphics (Proc. SIGGRAPH Aisa)},<br>
+          volume = {33},<br>
+          issue = {6},<br>
+          pages = {},<br>
+          year = {2014}<br>
+          }</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3>&nbsp;</h3>
+  <h3>Acknowledgement:</h3>
+  <p>We would like to thank Jiansong Deng and Ligang Liu for their insightful comments.This work is partly supported by ERC grant ShapeForge (StG-2012-307877).Shizhe Zhou is supported by the grant of National Science Foundation of China (No.61303147).</p>
+  <h5> @All Rights Reserved, Shizhe Zhou, USTC , 2014. </h5>
+</DIV>
+<P></P>
+</BODY></HTML>
