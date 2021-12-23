@@ -12,7 +12,7 @@
 
 .style1 {color: #666666}
 body,td,th {
-	color: #963;
+	color: #039;
 }
 -->
 </STYLE>
@@ -41,6 +41,9 @@ function MM_preloadImages() { //v3.0
   <H3 style="text-align:center">All results are from -9&deg; to 9&deg;, 19 frames in total.</H3>
   <H3 style="text-align:center">link to the previous webpage&#65306;<a href="https://shizhezhou.github.io/cgf/supplementaryfiles/results.html"> https://shizhezhou.github.io/cgf/supplementaryfiles/results.html</a></H3>
   <table width="1415" border="1" align="center" >
+    <tr>
+      <td colspan="7" align="center"><span style="text-align:center"><strong>Table 1. Generated results and ground truths.For all images in this table, IoR = 1.4723.</strong></span></td>
+    </tr>
     <tr>
       <td width="64">\</td>
       <td width="256" align="center"><strong>A</strong></td>
@@ -213,6 +216,41 @@ function MM_preloadImages() { //v3.0
     <td align="center"><strong>18</strong></td>
   </tr>
 </table>
+  <p>&nbsp;</p>
+  <table width="1310" border="1" align="center">
+    <tr align="center">
+      <td height="22" colspan="5" align="center" valign="top" nowrap><p><strong> Table 2. Experiments with an increasing IoR at a fixed viewpoint. Each result has 8 frames with 8 IoRs = 1.2, 1.3, 1.4, 1.4723, 1.5, 1.6, 1.7 and 1.8.</strong></p></td>
+    </tr>
+    <tr>
+      <td width="256" align="center"><img src="ior/ours_001_1_IOR.gif" width="256" height="256"></td>
+      <td width="256"><img src="ior/ours_02808440_0_IOR.gif" width="256" height="256"></td>
+      <td width="256"><img src="ior/ours_02808440_15_IOR.gif" width="256" height="256"></td>
+      <td width="256"><img src="ior/ours_02808440_24_IOR.gif" width="256" height="256"></td>
+      <td width="256"><img src="ior/ours_02958343_18_IOR.gif" width="256" height="256"></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="ior/ours_03001627_1_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03001627_4_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03001627_9_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03001627_20_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03325088_2_IOR.gif" width="256" height="256"></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="ior/ours_03325088_4_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03325088_5_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03593526_20_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03593526_14_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03593526_15_IOR.gif" width="256" height="256"></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="ior/ours_03636649_4_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03636649_11_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03636649_15_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_03636649_16_IOR.gif" width="256" height="256"></td>
+      <td><img src="ior/ours_02691156_17_IOR.gif" width="256" height="256"></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
 </DIV>
 <DIV>
   <DIV style=" padding:0 pt; position:static; background:url()">
@@ -221,12 +259,15 @@ function MM_preloadImages() { //v3.0
     <H3 align="center" style="text-align:center">From the left to right are the ground truth, CLDI[1], VAF[2], Synsin[3] and ours.</H3>
     <table width="1132" height="425" border="1" align="center">
       <tr>
-        <td width="256"><strong>Corresponding 3D Shape</strong></td>
+        <td colspan="6" align="center"><strong>Table 3. Comparsion with Previous Methods.</strong></td>
+      </tr>
+      <tr>
+        <td width="256"><strong>Corresponding 3D Shapes</strong></td>
         <td width="256"><strong>Ground Truth</strong></td>
         <td width="256"><strong>CLDI[1]</strong></td>
         <td width="73"><strong>VAF[2]</strong></td>
         <td width="123"><strong>Synsin[3]</strong></td>
-        <td width="128"><strong>Ours</strong></td>
+        <td width="128"><strong>Ours, IoR=1.4723</strong></td>
       </tr>
       <tr>
         <td align="center"><img src="comparison/001_0/3d.png" alt="" width="118" height="98"></td>
@@ -269,10 +310,9 @@ function MM_preloadImages() { //v3.0
         <td><img src="comparison/04530566_7/4 ours_04530566_7_gen.gif" alt="" width="256" height="256"></td>
       </tr>
     </table>
-    <h6>[1]VAF: ZHOU T., TULSIANI S., SUN W., MALIK J., EFROS A. A. View Synthesis by Appearance Flow. In European conference on computer vision (2016), Springer, pp. 286&ndash;301.</h6>
-    <h6>[2]CLDI: SHIH M.-L., SU S.-Y., KOPF J., HUANG J.-B. 3D Photography using Context-aware Layered Depth Inpainting. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (2020), pp. 8028&ndash;8038.</h6>
-    <h6>[3]Synsin: WILES O., GKIOXARI G., SZELISKI R., JOHNSON J. Synsin: End-to-end View Synthesis From a Single Image. In Proceedings     of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (2020), pp. 7467&ndash;7477.</h6>
-    <pre align="center">&nbsp;</pre>
+    <h5>[1]VAF: ZHOU T., TULSIANI S., SUN W., MALIK J., EFROS A. A. View Synthesis by Appearance Flow. In European conference on computer vision (2016), Springer, pp. 286&ndash;301.</h5>
+    <h5>[2]CLDI: SHIH M.-L., SU S.-Y., KOPF J., HUANG J.-B. 3D Photography using Context-aware Layered Depth Inpainting. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (2020), pp. 8028&ndash;8038.</h5>
+    <h5>[3]Synsin: WILES O., GKIOXARI G., SZELISKI R., JOHNSON J. Synsin: End-to-end View Synthesis From a Single Image. In Proceedings     of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (2020), pp. 7467&ndash;7477.</h5>
   </DIV>
 </DIV>
 <pre>&nbsp;</pre>
